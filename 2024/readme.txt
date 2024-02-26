@@ -9,3 +9,9 @@ Výpočet výsledku: Pokud je odeslán formulář s tlačítkem pro rovná se (e
 Výstupní formulář: Výsledek aritmetické operace je zobrazen v textovém poli formuláře, kde uživatel může pokračovat v dalších výpočtech. Tlačítka pro čísla a operátory jsou zde k dispozici k dalšímu zadávání a výpočtům.
 
 Celkově jde o jednoduchou kalkulačku implementovanou pomocí PHP a HTML, která využívá cookies k ukládání mezivýsledků výpočtů.
+
+
+
+
+
+stránka : http://coded.42web.io/?i=1
